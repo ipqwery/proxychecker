@@ -2,9 +2,11 @@
 
 A GUI-based application for managing and checking proxy servers, built using the [Fyne](https://fyne.io/) framework.
 
+
 ![Proxy Checker Screenshot](/assets/proxychecker.png)
 
 ## Features
+- Runs on all OS
 - Load proxies from a file.
 - Sort and filter proxies by type, address, latency, and status.
 - Check proxy availability and latency using multiple threads.
@@ -17,8 +19,8 @@ A GUI-based application for managing and checking proxy servers, built using the
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/proxy-checker.git
-   cd proxy-checker
+   git clone https://github.com/ipqwery/proxychecker.git
+   cd proxychecker
    ```
 2. Install dependencies:
    ```sh
